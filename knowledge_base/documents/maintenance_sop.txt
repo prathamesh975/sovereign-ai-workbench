@@ -1,0 +1,51 @@
+MAINTENANCE SOP
+Cooling Water Pump Maintenance
+
+Document ID: SOP-MNT-001
+Revision: 3
+Department: Maintenance
+
+1. PURPOSE
+
+This SOP defines the procedure for inspection and corrective
+maintenance of cooling water pumps.
+
+2. MECHANICAL SEAL LEAKAGE
+
+Minor leakage around the mechanical seal shall be recorded
+during inspection.
+
+If leakage is confirmed, the mechanical seal should be
+inspected and replaced when required.
+
+3. VIBRATION
+
+Pump vibration shall be monitored during operation.
+
+A vibration reading above the department's acceptable
+operating range requires further investigation.
+
+The maintenance team shall record the vibration measurement
+and inspect possible causes including coupling alignment,
+bearing condition and mechanical looseness.
+
+4. COUPLING ALIGNMENT
+
+If coupling misalignment is identified, corrective alignment
+shall be performed before returning the equipment to normal
+operation.
+
+5. POST-MAINTENANCE INSPECTION
+
+After corrective maintenance:
+
+- Verify that the mechanical seal is functioning correctly.
+- Recheck pump vibration.
+- Verify coupling alignment.
+- Record the maintenance action.
+- Continue monitoring the equipment.
+
+6. DOCUMENTATION
+
+Inspection findings and corrective actions must be documented
+in the maintenance record.

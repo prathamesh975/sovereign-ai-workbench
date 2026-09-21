@@ -1,0 +1,25 @@
+APPROVAL NOTE GUIDELINES
+
+Document ID: ENG-APP-002
+Department: Engineering
+
+Approval notes for maintenance activities should contain:
+
+1. Subject
+2. Equipment identification
+3. Inspection reference
+4. Summary of inspection findings
+5. Recommended corrective actions
+6. Operational considerations
+7. Requested approval
+8. Supporting documents
+
+The approval note should clearly distinguish observed findings
+from recommended actions.
+
+Technical measurements from the inspection report should be
+retained accurately.
+
+Where maintenance is recommended, the approval note should
+identify the required corrective action and any recommended
+follow-up inspection.
